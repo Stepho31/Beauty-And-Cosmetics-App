@@ -22,7 +22,7 @@ This application was made for you to see Maybelline's newest products, pricing, 
 
 To clone and run this application, you'll need Git installed on your computer. From your command line, clone this repository:
 
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/Stepho31/Beauty-And-Cosmetics-App.git
 
 
 ## Contributing
